@@ -1,0 +1,3 @@
+[NAME=Task][SPEAKERSPRITE=Task] Up ahead is the backend.
+[NAME=Task][SPEAKERSPRITE=Task] ...
+[NAME=Task][SPEAKERSPRITE=Task] Be careful in there, kid.

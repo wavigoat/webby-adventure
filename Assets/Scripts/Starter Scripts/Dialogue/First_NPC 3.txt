@@ -1,0 +1,8 @@
+[NAME=Task][SPEAKERSPRITE=Task] Webby? Can you hear me?
+[NAME=Webby][SPEAKERSPRITE=Webby] Loud and clear!
+[NAME=Task][SPEAKERSPRITE=Task] Great.
+[NAME=Task][SPEAKERSPRITE=Task] I can't keep an eye on you in there, but at least we can still communicate.
+[NAME=Task][SPEAKERSPRITE=Task] How's it lookin' in there?
+[NAME=Webby][SPEAKERSPRITE=Webby] Not good! There's a lot of bugs in here, and the corruption is pretty bad.
+[NAME=Task][SPEAKERSPRITE=Task] Got it. Be quick in there, grab what you can, and go. I'll meet you once you get back out.
+[NAME=Webby][SPEAKERSPRITE=Webby] I'll be there in a jiffy!

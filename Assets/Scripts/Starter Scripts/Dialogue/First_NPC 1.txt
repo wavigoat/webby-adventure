@@ -1,0 +1,5 @@
+[NAME=Task][SPEAKERSPRITE=Task] Yeesh.
+[NAME=Task][SPEAKERSPRITE=Task] Seems like the viruses have really wrecked this place.
+[NAME=Task][SPEAKERSPRITE=Task] Webby, you should be able to enter windows where the frames have been broken.
+[NAME=Task][SPEAKERSPRITE=Task] Keep an eye out, some of these nasty buggers have projectiles of their own.
+[NAME=Webby][SPEAKERSPRITE=Webby] On it, boss!

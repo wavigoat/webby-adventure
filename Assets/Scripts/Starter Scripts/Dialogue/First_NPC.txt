@@ -1,0 +1,6 @@
+[NAME=Task][SPEAKERSPRITE=Task] Listen up, Webby.
+[NAME=Task][SPEAKERSPRITE=Task] We've got a nasty case of viruses on our hand here.
+[NAME=Task][SPEAKERSPRITE=Task] I've got my hands full with handling some other matters around the computer, so I'm counting on you to clean up around here.
+[NAME=Webby][SPEAKERSPRITE=Webby] I won't let you down!
+[NAME=Task][SPEAKERSPRITE=Task] You can use [Left Click] to shoot enemies.
+[NAME=Task][SPEAKERSPRITE=Task] Keep an eye out for the files they've scattered around. The less recovery we have to do, the better.
